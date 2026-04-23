@@ -1,7 +1,7 @@
 <!-- NAVIGATION BAR -->
 <div align="center">
 
-[🏠 Profile](https://github.com/Rushit004/Rushit004) &nbsp;·&nbsp;
+[🏠 Profile](https://github.com/Rushit004) &nbsp;·&nbsp;
 **⚡ Skill Forge** &nbsp;·&nbsp;
 [🧪 Innovation Lab](https://github.com/Rushit004/Rushit004) &nbsp;·&nbsp;
 [📊 Data Arena](https://github.com/Rushit004/Rushit004) &nbsp;·&nbsp;
