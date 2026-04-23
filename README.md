@@ -64,7 +64,7 @@ This is my learning zone. Every repo here is a structured log of me wrestling wi
 
 <div align="center">
 <sub>
-<a href="https://github.com/Rushit004/Rushit004">← Back to Profile</a> &nbsp;·&nbsp;
+<a href="https://github.com/Rushit004">← Back to Profile</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/rushit-tholiya-605341311">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://www.kaggle.com/rushittholiya">Kaggle</a>
 </sub>
