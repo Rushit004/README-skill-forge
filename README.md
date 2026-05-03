@@ -36,7 +36,7 @@ This is my learning zone. Every repo here is a structured log of me wrestling wi
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2dd4bf?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-5eead4?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=2dd4bf)](https://github.com/Rushit004/data-science-journey-campusx)
+[![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/data-science-journey-campusx)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge)
 
 ---
