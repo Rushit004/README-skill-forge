@@ -41,6 +41,18 @@ This is my learning zone. Every repo here is a structured log of me wrestling wi
 
 ---
 
+### [leetcode-sql-50](https://github.com/Rushit004/leetcode-sql-50)
+
+> Structured solutions for LeetCode SQL 50 problems with clean, optimized queries organized by difficulty (Easy, Medium, Hard). Focused on strengthening SQL fundamentals through consistent practice and real problem patterns.
+
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-1e293b?style=flat-square&logo=leetcode&logoColor=white)
+![Practice](https://img.shields.io/badge/Practice-134e4a?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/leetcode-sql-50)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+---
 <!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
 
 <div align="center">
