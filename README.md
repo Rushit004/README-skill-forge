@@ -12,7 +12,6 @@
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:134e4a,100:020617&height=160&section=header&text=⚡%20Skill%20Forge&fontSize=48&fontColor=2dd4bf&fontAlignY=45&desc=Index%20of%20all%20my%20learning%20repos%20—%20concepts%20studied%2C%20tools%20practiced%2C%20skills%20built&descSize=15&descAlignY=68&descColor=99f6e4" />
 </div>
 
@@ -27,7 +26,6 @@ This is my learning zone. Every repo here is a structured log of me wrestling wi
 ---
 
 ### [data-science-journey-campusx](https://github.com/Rushit004/data-science-journey-campusx)
-
 > My structured 100-day DS learning log — from zero Python to Machine Learning, following CampusX.
 
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white)
@@ -42,7 +40,6 @@ This is my learning zone. Every repo here is a structured log of me wrestling wi
 ---
 
 ### [leetcode-sql-50](https://github.com/Rushit004/leetcode-sql-50)
-
 > Structured solutions for LeetCode SQL 50 problems with clean, optimized queries organized by difficulty (Easy, Medium, Hard). Focused on strengthening SQL fundamentals through consistent practice and real problem patterns.
 
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=white)
@@ -53,6 +50,22 @@ This is my learning zone. Every repo here is a structured log of me wrestling wi
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
+
+### [mongodb-for-data-science](https://github.com/Rushit004/mongodb-for-data-science)
+> MongoDB fundamentals — CRUD, operators, indexing, aggregation — applied through two real pipelines: NYC taxi trip analysis (4M+ records) and a car price prediction model, using PyMongo as the working data layer between raw data and ML.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-134e4a?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0f766e?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2dd4bf?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-5eead4?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/mongodb-for-data-science)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+---
+
 <!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
 
 <div align="center">
@@ -61,8 +74,6 @@ This is my learning zone. Every repo here is a structured log of me wrestling wi
 <a href="https://linkedin.com/in/rushit-tholiya-605341311">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://www.kaggle.com/rushittholiya">Kaggle</a>
 </sub>
-
 <br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:134e4a,100:020617&height=80&section=footer" />
 </div>
