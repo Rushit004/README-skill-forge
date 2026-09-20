@@ -65,7 +65,19 @@ This is my learning zone. Every repo here is a structured log of me wrestling wi
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
+### [n8n-building-ai-agents](https://github.com/Rushit004/n8n-building-ai-agents)
+> A structured walkthrough of n8n's Building AI Agents course — fundamentals through every workflow-type pattern, ending in three multi-agent capstone projects with full system prompts, sanitized workflows, and architecture diagrams.
 
+![n8n](https://img.shields.io/badge/n8n-1e293b?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-134e4a?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-0f766e?style=flat-square&logo=anthropic&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-2dd4bf?style=flat-square&logo=gmail&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-5eead4?style=flat-square&logo=github&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/n8n-building-ai-agents)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+---
 <!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
 
 <div align="center">
